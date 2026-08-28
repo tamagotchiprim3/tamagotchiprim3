@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Mishin
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jwhhhhhhh)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/phila_enjoyer)
 
 Frontend Developer focused on Angular, with 6+ years of commercial experience. I currently lead a three-engineer frontend team at T-Bank, where we build the internal access-management platform (IAM/IGA) that governs employee permissions across the bank.
 
@@ -33,4 +33,4 @@ I mentor developers — a few of them are now working commercially, which is the
 ## Contact
 
 - Email: webmishin.a.s@gmail.com
-- Telegram: [@jwhhhhhhh](https://t.me/jwhhhhhhh)
+- Telegram: [@phila_enjoyer](https://t.me/phila_enjoyer)
